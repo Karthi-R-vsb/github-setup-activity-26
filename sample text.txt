@@ -1,0 +1,5 @@
+This is a sample file.
+
+I created this file to practice uploading files in GitHub.
+
+GitHub is useful for storing and sharing projects.
